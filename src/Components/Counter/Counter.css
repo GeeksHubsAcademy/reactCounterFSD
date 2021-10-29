@@ -1,0 +1,13 @@
+
+.contenedorContador {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton {
+    background-color: grey;
+    color: black;
+    border-radius: 50%;
+}
